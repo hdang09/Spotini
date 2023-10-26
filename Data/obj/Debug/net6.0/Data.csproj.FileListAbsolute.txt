@@ -1,0 +1,14 @@
+D:\CODE\.NET\Spotini\Data\bin\Debug\net6.0\Data.deps.json
+D:\CODE\.NET\Spotini\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\CODE\.NET\Spotini\Data\bin\Debug\net6.0\Data.dll
+D:\CODE\.NET\Spotini\Data\bin\Debug\net6.0\Data.pdb
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.dll
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\refint\Data.dll
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.pdb
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\CODE\.NET\Spotini\Data\obj\Debug\net6.0\ref\Data.dll
