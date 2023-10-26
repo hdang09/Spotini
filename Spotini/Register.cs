@@ -25,13 +25,13 @@ namespace Spotini
 
             }
 
-            Account account = new()
+            Account account = new Account()
             {
                 FullName = fullName,
                 Username = username,
                 Password = password,
                 Role = "USER",
-                Status = "enable",
+                Status = "active",
             };
             accountRepository.Create(account);
 
