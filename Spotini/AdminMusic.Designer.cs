@@ -1,6 +1,6 @@
 ﻿namespace Spotini
 {
-    partial class Admin
+    partial class AdminMusic
     {
         /// <summary>
         /// Required designer variable.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Spotini
 {
-    public partial class Admin : Form
+    public partial class CreateMusic : Form
     {
-        public Admin()
+        public CreateMusic()
         {
             InitializeComponent();
         }

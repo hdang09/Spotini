@@ -40,7 +40,7 @@ namespace Spotini
 
                     if (item.Role == "ADMIN")
                     {
-                        Admin admin = new Admin();
+                        AdminAccount admin = new AdminAccount();
                         admin.Show();
                     }
                     else

@@ -3,7 +3,6 @@ D:\CODE\.NET\Spotini\Spotini\bin\Debug\net6.0-windows\Spotini.deps.json
 D:\CODE\.NET\Spotini\Spotini\bin\Debug\net6.0-windows\Spotini.runtimeconfig.json
 D:\CODE\.NET\Spotini\Spotini\bin\Debug\net6.0-windows\Spotini.dll
 D:\CODE\.NET\Spotini\Spotini\bin\Debug\net6.0-windows\Spotini.pdb
-D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.Admin.resources
 D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.Home.resources
 D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.Login.resources
 D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.MusicPlayer.resources
@@ -61,3 +60,8 @@ D:\CODE\.NET\Spotini\Spotini\bin\Debug\net6.0-windows\runtimes\win\lib\netstanda
 D:\CODE\.NET\Spotini\Spotini\bin\Debug\net6.0-windows\Data.dll
 D:\CODE\.NET\Spotini\Spotini\bin\Debug\net6.0-windows\Data.pdb
 D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.csproj.CopyComplete
+D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.AdminAccount.resources
+D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.AdminArtist.resources
+D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.AdminMusic.resources
+D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.CreateArtist.resources
+D:\CODE\.NET\Spotini\Spotini\obj\Debug\net6.0-windows\Spotini.CreateMusic.resources
